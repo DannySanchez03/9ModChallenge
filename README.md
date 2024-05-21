@@ -1,11 +1,11 @@
-# 9ModChallenge
-9 Node.js Challenge: Professional README Generator
+# README.md-Generator
+8th Challenge
 
-Deployed: https://dannysanchez03.github.io/9ModChallenge/
+Deployed: [here](https://dannysanchez03.github.io/README.md-Generator/)
 
 ## Description
 
-In this Module 9 Challenge we were told to use node.js to make a README.md using only the terminal so that people can save time by automatically getting one setup for themselves.
+In this 8th Challenge I expanded my Knowlegde of using node's inquirer package, the inquirer package lets you take user input from the command line or terminal whichever you prefer, and when the script is ran it will ask the user for what they want in their README.md once the questions are answered the application will have created the README.md file with the desired format.
 
 ## Installation
 
