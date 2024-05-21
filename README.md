@@ -1,6 +1,5 @@
 # 9ModChallenge
 9 Node.js Challenge: Professional README Generator
-# Work Day Scheduler Starter Code
 
 Deployed: https://dannysanchez03.github.io/9ModChallenge/
 
