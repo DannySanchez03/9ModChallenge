@@ -1,7 +1,7 @@
 # README.md-Generator
 8th Challenge
 
-Deployed: [here](https://dannysanchez03.github.io/README.md-Generator/)
+Deployed: [here](https://github.com/DannySanchez03/README.md-Generator)
 
 ## Description
 
